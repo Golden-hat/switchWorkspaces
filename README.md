@@ -1,4 +1,4 @@
-# Left_Workspace_Right
+# switchWorkspaces
 Extremely simple bash script to move to the immediate right or left workspaces relative to the active workspace in Hyprland
 
 # Installation
